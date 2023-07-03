@@ -1,0 +1,39 @@
+Rules of the Game:
+
+> The game consists of 13 questions with increasing difficulty and the prize money corresponding to it.
+
+> The user is supposed to answer the questions in the span of (A, B, C or D) either uppercase or lowercase.
+
+> NOTE: The user can also use the letter L (uppercase/lowercase), to access the two lifelines 50-50 and FLIP.
+
+	* 50-50: 2 out of the 3 wrong options are deleted and the other two are presented. However, you cannot use the other lifeline in this case.
+
+	* FLIP: The entire question is replaced with a different question having different options. Again, you cannot use the other lifeline in this case.
+
+
+> However the user can use each of the lifelines only once throughout the game.
+
+> Also, the user has to access lifeline if they choose the lifeline option.
+
+> The prize money pattern is as follows:
+
+
+		Q1  -------> Rs.5000
+		Q2  -------> Rs.10000
+		Q3  -------> Rs.20000
+		Q4  -------> Rs.40000
+		Q5  -------> Rs.80000
+		Q6  -------> Rs.160000
+		Q7  -------> Rs.320000
+		Q8  -------> Rs.640000
+		Q9  -------> Rs.1250000
+		Q10 -------> Rs.2500000
+		Q11 -------> Rs.5000000
+		Q12 -------> Rs.10000000
+		Q13 -------> Rs.50000000
+
+> The prize money has 3 levels: 
+	* If you pass the 2nd question, you are sure to win Rs.10000. However, you earn Rs.0 otherwise.
+	* If you pass the 7th question, you are sure to win Rs.320000. However, you earn Rs.10000 otherwise.
+	* If you pass the 13th question, you eventually win the game and earn Rs.5 Crores!!
+
